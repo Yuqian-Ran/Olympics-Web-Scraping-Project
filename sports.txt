@@ -1,0 +1,66 @@
+1,Aeronautics,Summer,1,1,0,1,1,1, Hermann Schreiber (1 medal)
+2,Alpine Skiing,Winter,"2,735","1,739",996,101,19,10, Kjetil AndrÃ© Aamodt (8 medals)
+3,Alpinism,Summer,25,24,1,6,3,1,25 athletes with 1 medal
+4,Archery,Summer,"1,113",613,500,98,16,29, Hubert Van Innis (10 medals)
+5,Art Competitions,Summer,"1,814","1,610",204,51,7,29, Josef Petersen and  Alex Walter Diggelmann (3 medals)
+6,Athletics,Summer,"22,074","15,541","6,527",227,29,83, Paavo Nurmi (12 medals)
+7,Badminton,Summer,811,399,412,69,7,5, Gao Ling (4 medals)
+8,Baseball,Summer,762,761,0,16,6,1, Pedro Luis Lazo (4 medals)
+9,Basketball,Summer,"3,413","2,481",932,66,19,2, Teresa Edwards (5 medals)
+10,Basque Pelota,Summer,2,2,0,1,1,1, Francisco Villota and  JosÃ© de AmÃ©zola (1 medal)
+11,Beach Volleyball,Summer,383,194,189,41,6,2, Kerri Walsh Jennings (4 medals)
+12,Biathlon,Winter,"1,135",764,371,54,15,13, Ole Einar BjÃ¸rndalen (13 medals)
+13,Bobsleigh,Winter,"1,694","1,584",109,54,21,4,&nbsp Bogdan Musiol (7 medals)
+14,Boxing,Summer,"5,262","5,197",65,175,25,15,9 athletes with 3 medals
+15,Canoeing,Summer,"3,206","2,502",702,99,19,27,&nbsp Birgit Fischer-Schmidt (12 medals)
+16,Cricket,Summer,24,24,0,2,1,1,24 athletes with 1 medal
+17,Croquet,Summer,10,7,3,1,1,3,3 athletes with 2 medals
+18,Cross Country Skiing,Winter,"2,401","1,684",717,81,22,23, BjÃ¸rn DÃ¦hlie (12 medals)
+19,Curling,Winter,349,188,160,16,7,2,8 athletes with 2 medals
+20,Cycling,Summer,"5,819","5,104",714,145,29,44, Bradley Wiggins (8 medals)
+21,Diving,Summer,"1,466",831,635,82,27,10,&nbsp Dmitry Sautin (8 medals)
+22,Equestrianism,Summer,"2,345","1,886",459,76,25,18, Isabell Werth (10 medals)
+23,Fencing,Summer,"4,123","3,243",880,101,29,18, Edoardo Mangiarotti (13 medals)
+24,Figure Skating,Winter,"1,572",747,824,55,24,6, Gillis GrafstrÃ¶m and  Yevgeny Plyushchenko (4 medals)
+25,Football,Summer,"6,177","5,427",734,92,27,2, Christie Pearce-Rampone (4 medals)
+26,Freestyle Skiing,Winter,627,359,267,41,7,10, Kari Traa (3 medals)
+27,Golf,Summer,218,148,70,42,3,3,3 athletes with 2 medals
+28,Gymnastics,Summer,"4,135","2,636","1,499",93,29,27, Larysa Latynina (18 medals)
+29,Handball,Summer,"2,702","1,675","1,027",47,13,2, Oh Seong-Ok and &nbsp&nbsp Andrey Lavrov (4 medals)
+30,Hockey,Summer,"3,825","2,829",996,43,23,2,4 athletes with 4 medals
+31,Ice Hockey,Winter,"3,885","3,386",498,34,23,2, Jayna Hefford and  Hayley Wickenheiser (5 medals)
+32,Jeu De Paume,Summer,11,11,0,2,1,1,3 athletes with 1 medal
+33,Judo,Summer,"2,724","1,966",757,180,13,15, Ryoko Tamura-Tani (5 medals)
+34,Lacrosse,Summer,61,60,0,3,3,1,60 athletes with 1 medal
+35,Luge,Winter,772,543,228,49,14,4, Armin ZÃ¶ggeler (6 medals)
+36,Military Ski Patrol,Winter,24,24,0,6,1,1,12 athletes with 1 medal
+37,Modern Pentathlon,Summer,864,750,114,57,24,3, Pavel Lednyov (7 medals)
+38,Motorboating,Summer,14,13,1,2,1,3,3 athletes with 2 medals
+39,Nordic Combined,Winter,605,605,0,31,22,5, Felix Gottwald (7 medals)
+40,Polo,Summer,87,87,0,9,5,1,4 athletes with 2 medals
+41,Racquets,Summer,7,7,0,1,1,2,3 athletes with 2 medals
+42,Rhythmic Gymnastics,Summer,567,0,567,48,9,2,12 athletes with 2 medals
+43,Roque,Summer,4,4,0,1,1,1,3 athletes with 1 medal
+44,Rowing,Summer,"7,689","6,204","1,483",101,28,25, Elisabeta Oleniuc-LipÄ (8 medals)
+45,Rugby,Summer,155,155,0,7,4,1,7 athletes with 2 medals
+46,Rugby Sevens,Summer,299,151,148,14,1,2,
+47,Sailing,Summer,"4,480","3,850",629,120,26,38,3 athletes with 5 medals
+48,Shooting,Summer,"4,882","4,144",737,150,27,83, Carl Osburn (11 medals)
+49,Short Track Speed Skating,Winter,444,235,209,35,7,8, Apolo Anton Ohno and &nbsp Viktor An (8 medals)
+50,Skeleton,Winter,147,101,45,28,6,2,4 athletes with 2 medals
+51,Ski Jumping,Winter,874,844,30,37,22,4, Matti NykÃ¤nen (5 medals)
+52,Snowboarding,Winter,567,328,239,35,5,12, Kelly Clark (3 medals)
+53,Softball,Summer,367,0,367,13,4,1,4 athletes with 4 medals
+54,Speed Skating,Winter,"1,582","1,054",528,41,22,13, Claudia Pechstein (9 medals)
+55,Swimming,Summer,"8,765","5,142","3,620",201,29,55, Michael Phelps (28 medals)
+56,Synchronized Swimming,Summer,562,0,561,47,9,3,6 athletes with 5 medals
+57,Table Tennis,Summer,749,372,376,103,8,6, Wang Nan and  Wang Hao (5 medals)
+58,Taekwondo,Summer,470,241,229,105,5,8,4 athletes with 3 medals
+59,Tennis,Summer,"1,246",760,486,93,16,9, Max DÃ©cugis (6 medals)
+60,Trampolining,Summer,93,49,44,25,5,2, Karen Cockburn and  Dong Dong (3 medals)
+61,Triathlon,Summer,355,180,175,54,5,2,5 athletes with 2 medals
+62,Tug-Of-War,Summer,160,160,0,13,6,1,3 athletes with 3 medals
+63,Volleyball,Summer,"2,505","1,374","1,129",48,14,2,4 athletes with 4 medals
+64,Water Polo,Summer,"2,601","2,262",337,52,27,2, DezsÅ Gyarmati (5 medals)
+65,Weightlifting,Summer,"2,883","2,526",356,150,26,21,4 athletes with 4 medals
+66,Wrestling,Summer,"4,988","4,766",222,131,28,30,&nbsp Wilfried Dietrich (5 medals)
